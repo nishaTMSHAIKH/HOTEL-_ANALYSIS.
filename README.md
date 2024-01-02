@@ -13,9 +13,8 @@ The final deliverables for this project will include a report summarizing the fi
 <font size="1">Image Courtesy: https://ezdatamunch.com/wp-content/uploads/2018/02/banner2.png</font>
 
 Click on the following link to checkout the video presentation and the colab file.
-- [Colab](https://colab.research.google.com/drive/1rmKgon2P4jbdDM3z-JOpxzFHxCpcvEYz?usp=sharing)
-- [Video](https://drive.google.com/file/d/1GhPN8zVTQXL7G765z00dQz97eRawNRkA/view?usp=sharing)
-
+- [Colab]https://drive.google.com/drive/folders/1_ngzwAC9YKPVjQmWf0GEGRBj5zqBclT1?usp=drive_link
+- [Video]https://drive.google.com/file/d/1lQyxorIgNhXBz0vgHfsRfRDO44bEtLh8/view?usp=drive_link
 
 ---
 
